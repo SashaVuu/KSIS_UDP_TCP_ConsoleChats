@@ -1,0 +1,20 @@
+﻿Построение начато 29.05.2020 21:46:27.
+     1>Проект "C:\Users\shell\Documents\Visual Studio 2010\Projects\UDP_TCP_Console_Chat\Client_UDP\Client_UDP.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Client_UDP.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+       Manifest:
+         Для всех выходных данных обновления не требуется.
+       FinalizeBuildStatus:
+         Файл "Debug\Client_UDP.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Client_UDP.lastbuildstate".
+     1>Построение проекта "C:\Users\shell\Documents\Visual Studio 2010\Projects\UDP_TCP_Console_Chat\Client_UDP\Client_UDP.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.06

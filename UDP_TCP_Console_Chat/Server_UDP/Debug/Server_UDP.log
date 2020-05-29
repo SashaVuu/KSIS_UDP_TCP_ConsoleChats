@@ -1,0 +1,26 @@
+﻿Построение начато 29.05.2020 21:46:06.
+     1>Проект "C:\Users\shell\Documents\Visual Studio 2010\Projects\UDP_TCP_Console_Chat\Server_UDP\Server_UDP.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Server_UDP.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\CnC++\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt udp_server.cpp
+         udp_server.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Server_UDP.exe.embed.manifest.res" Debug\Server_UDP_manifest.rc 
+       Link:
+         C:\CnC++\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\shell\Documents\Visual Studio 2010\Projects\UDP_TCP_Console_Chat\Debug\Server_UDP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Server_UDP.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\shell\Documents\Visual Studio 2010\Projects\UDP_TCP_Console_Chat\Debug\Server_UDP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\shell\Documents\Visual Studio 2010\Projects\UDP_TCP_Console_Chat\Debug\Server_UDP.lib" /MACHINE:X86 Debug\Server_UDP.exe.embed.manifest.res
+         Debug\udp_server.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Server_UDP.exe.embed.manifest" /manifest Debug\Server_UDP.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         Server_UDP.vcxproj -> C:\Users\shell\Documents\Visual Studio 2010\Projects\UDP_TCP_Console_Chat\Debug\Server_UDP.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Server_UDP.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Server_UDP.lastbuildstate".
+     1>Построение проекта "C:\Users\shell\Documents\Visual Studio 2010\Projects\UDP_TCP_Console_Chat\Server_UDP\Server_UDP.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.86
